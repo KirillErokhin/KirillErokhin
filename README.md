@@ -1,3 +1,5 @@
+![Kirill Singh Banner](https://github.com/KirillErokhin/KirillErokhin/blob/main/images/banner_kirill.jpg)
+
 <h1 align="center">
   Hi, there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
