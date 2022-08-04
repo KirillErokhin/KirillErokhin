@@ -1,4 +1,4 @@
-![Kirill Singh Banner](https://github.com/KirillErokhin/KirillErokhin/blob/main/images/banner_kirill.jpg)
+![Kirill Singh Banner](https://github.com/KirillErokhin/KirillErokhin/blob/main/images/new_banner.jpg)
 
 <h1 align="center">
   Hi, there
