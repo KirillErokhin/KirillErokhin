@@ -11,9 +11,11 @@
   <a href="https://t.me/kasdeja23">
     <img src="https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&logoColor=rgb" alt="Telegram Badge"/>
   </a>
-  </a>
+  <a href="https://www.linkedin.com/in/KirillErokhin23">
+    <img src="https://img.shields.io/badge/LinkedIN-black?style=for-the-badge&logo=Linkedin&logoColor=rgb" alt="LinkedIN Badge"/>
+  </a>  
   <a href="mailto:ks.erokhin@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=rgb" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=rgb" alt="Gmail Badge"/>
   </a>
 </div>
 <div id="badges" align="center">
