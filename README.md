@@ -23,7 +23,8 @@
 </div>
 
 ### :man_technologist: About Me :
-**My name is Kirill Erokhin. I'm mining engineer, civil engineer and beginner in programming, Data Science and Machine learning.**
+**My name is Kirill Erokhin.** 
+**I'm Data Science and Machine learning fan.**
 
 ---
 
